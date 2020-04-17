@@ -1,2 +1,2 @@
 # mySmartContract
-Sample smart contract code using nodejs, web3, solc and ganache-cli.
+Sample smart contract written in solidity. Also, using nodejs and web3, solc and ganache-cli packages.
